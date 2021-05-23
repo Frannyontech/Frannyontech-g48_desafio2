@@ -1,0 +1,100 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    margin: 0px;
+    background-color: #000000;
+    color: #fff;
+}
+
+body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+h1 {
+    font-weight: 500;
+    color: #fff;
+    padding: 0.5rem;
+    text-align: center;
+    font-size:3em;
+}
+
+h2{
+    letter-spacing: 1px;
+    font-weight: 500;
+    text-align: center;
+    font-size: 2.5em;
+}
+.centrado {
+    width: 75%;
+    margin: 0 auto;
+}
+
+
+#header-iguana{
+    width: 100%;
+    display: inline-block;
+}
+
+.bg-header{
+    width: 100%;
+}
+
+.la-iguana{
+    padding: 76px;
+
+}
+.iguana-1{
+    width: 399px;
+    height: 237px;
+    padding-left: 106px;
+}
+.texto {
+    width: 475px;
+    height: 197px;
+    display: inline-block;
+    font-size: 1rem;
+
+}
+/* -----iconos----- */
+.iconos{
+    text-align: center;
+    background-color: #1e1a13;
+    font-size: 20px;
+    padding-top: 75px;
+}
+
+.iconos article {
+    display: inline-block;
+    padding: 70px;
+}
+
+.iconos p {
+    padding-top: 19px;
+}
+
+
+/* -------imagenes------ */
+.images{
+    padding-top: 73px;
+    padding-bottom: 75px;  
+    text-align: center;
+}
+
+.centrado-img{
+    display: inline-block;
+    width: 316px;
+    height: 202px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+/* ------footer---- */
+footer {
+    padding: 3.125rem;
+    background-color: #1E1A13;
+    text-align: center;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+
